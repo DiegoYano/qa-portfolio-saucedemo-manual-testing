@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project demonstrates manual QA testing skills using SauceDemo, a sample e-commerce web application. The goal is to create and document test cases, execute functional tests, report defects, and summarize testing results in a clear and professional format.
-This is a self-directed QA learning project created to practise manual testing, test case documentation, bug reporting structure, regression checklist creation, and test execution summary writing.
+Self-directed manual QA project documenting the full cycle from test design to execution summary.
 
 ## Application Under Test
 
